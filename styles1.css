@@ -1,0 +1,172 @@
+
+.navbar-brand{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.jumbotron{
+	background-color: #F35447;
+	text-align: center;
+}
+
+.nav-item{
+	background: light;
+
+}
+h2 {
+	font-size: 30px;
+	font-weight: 900;
+	color: #666d89;
+	margin: 0 0 21px 0;
+	}
+h3 {
+	font-size: 18px;
+	font-weight: 300;
+	color: #767e9e;
+	line-height: 1.6;
+	}
+
+h4 {
+	font-size: 18px;
+	font-weight: 900;
+	color: #666d89;
+	margin: 0 0 10px 0;
+	}
+	
+p {
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 1.7;
+	color: #767e9e;
+	}
+
+.portfolio{
+	background: #2d303a;
+	overflow: hidden;
+	border-bottom: 6px solid #323746;
+	}
+
+.in {
+	margin: 0 auto;
+	max-width: 940px;
+	padding: 67px 10px;
+	overflow: hidden;
+	}
+#acerca {
+	background: #f2f2f2;
+	overflow: hidden;
+	border-bottom: 6px solid #ffffff;
+	}
+	
+#acerca ul {
+	padding: 46px 0 0 0;
+	}
+
+#acerca ul li {
+	width: 300px;
+	float: left;
+	display: inline;
+	margin: 0 0 0 20px;
+	}
+
+#acerca ul li:first-child {
+	margin-left: 0;
+	}
+
+#acerca ul li img,#acerca ul li h4,#acerca ul li p {
+	display: block;
+	}
+
+#acerca ul li img {
+	margin: 0 0 17px 0;
+	}
+
+#acerca ul li p {
+	margin: 0 0 24px 0;
+	}
+
+#acerca ul li a {
+	display: block;
+	}
+
+
+
+#contacto {
+	background: #f06c64;
+	overflow: hidden;
+	border-bottom: 6px solid #ea676b;
+	}
+
+#contacto h2,#contacto h3,#contacto h4,#contacto p,#contacto div{
+	color: #f0d8d9;
+	}
+	
+#contacto ul {
+	padding: 44px 0 0 0;
+	overflow: hidden;
+	}
+	
+#contacto ul li {
+	float: left;
+	display: inline;
+	max-width: 300px;
+	padding: 0 0 0 10px;
+	}
+
+#contacto ul li:first-child {
+	padding: 0 10px 0 0;
+ 	max-width: 620px;
+	}
+	
+
+input {
+	background: #d6564f;
+ 	max-width: 590px;
+ 	width: 590px;
+	height: 38px;
+	line-height: 38px;
+	border: 0;
+	font-size: 12px;
+	color: #f48c8f;
+	font-family: 'Lato', sans-serif;
+	padding: 0px 15px;
+	margin: 0 0 16px 0;
+	outline: none;
+	}
+
+textarea {
+	background: #d6564f;
+	max-width: 590px;
+	width: 590px;
+	height: 202px;
+	max-height: 202px;
+	border: 0;
+	padding: 15px;
+	margin: 0 0 16px 0;
+	outline: none;
+	overflow: auto;
+	resize: none;
+	font-size: 12px;
+	color: #f48c8f;
+	
+	}
+
+
+#final {
+	background: #2d303a;
+	overflow: hidden;
+	}
+
+#final .in {
+	padding-top: 22px;
+	padding-bottom: 22px;
+	}
+	
+#final p {
+	color: #666d89;
+	}	
+	
+
+	
+
+
